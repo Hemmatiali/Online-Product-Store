@@ -6,17 +6,11 @@ A clean architecture, CQRS patterned online product store with REST APIs for pro
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Entities](#entities)
-- [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Running Tests](#running-tests)
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+- [Documentation and Comments](#documentation-and-comments)
+- [License](#license)
 
 ## Project Structure
 ```bash
@@ -81,7 +75,7 @@ CodeChallengeProject/
 
 ### Technologies Used
 - C#
-- .NET Core
+- .NET 8
 - EF Core
 - CQRS
 - Clean Architecture
