@@ -55,3 +55,41 @@ CodeChallengeProject/
         │ ├── Features/
         │
 └── OnlineProductStore.sln
+
+## Entities
+
+### Product
+
+- Id
+- Title
+- InventoryCount
+- Price
+- Discount (percentage)
+
+### User
+
+- Id
+- Name
+- Orders
+
+### Order
+
+- Id
+- Product
+- CreationDate
+- Buyer
+
+### Technologies Used
+- C#
+- .NET Core
+- EF Core
+- CQRS
+- Clean Architecture
+- In-Memory Caching
+- Unit Testing (xUnit)
+
+## Documentation and Comments
+The code is thoroughly documented with XML comments explaining the functionality of each component and method. Clear instructions are provided on how to build, run, and use the application.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](license.txt) file for details.
