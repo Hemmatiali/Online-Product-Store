@@ -19,7 +19,7 @@ A clean architecture, CQRS patterned online product store with REST APIs for pro
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Project Structure
-
+```bash
 CodeChallengeProject/
 │
 ├── CodeChallengeProject.src/
@@ -55,7 +55,7 @@ CodeChallengeProject/
         │ ├── Features/
         │
 └── OnlineProductStore.sln
-
+```
 ## Entities
 
 ### Product
