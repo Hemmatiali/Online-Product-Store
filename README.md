@@ -73,7 +73,7 @@ CodeChallengeProject/
 - CreationDate
 - Buyer
 
-### Technologies Used
+## Technologies Used
 - C#
 - .NET 8
 - EF Core
